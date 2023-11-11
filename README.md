@@ -1,7 +1,7 @@
 ﻿`  `**SOFTWARE  REQUIREMENTS  SPECIFICATION** 
 
 
-`     `**Application for Grocery Delivery**                     
+`                `**Application for Grocery Delivery**                     
 
 **PREPARED BY:** 
 
@@ -16,11 +16,7 @@ RAJALAKSHMI J
 1. **Introduction** 
 1. **Purpose** 
 
-The purpose of this document is to present a detailed description of the 
-
-Application for Grocery Delivery. It will explain the purpose and features of the system, the interfaces of the system and what the system will do. This document is intended to be used by the members of the project team that will implement and verify the correct functioning of the system.  This project describes the hardware and software interface requirements using ER diagrams and UML diagrams. 
-
-The system is developed with a user-friendly and attractive GUI. It delivers a wide range of groceries available online. Users have to first login into the system to view the groceries and add them into their cart. They can then order it by making a secure online payment via CREDIT CARD. The system functionality of products and orders is stored on server side in a web service. 
+The purpose of this document is to present a detailed description of the Application for Grocery Delivery. It will explain the purpose and features of the system, the interfaces of the system and what the system will do. This document is intended to be used by the members of the project team that will implement and verify the correct functioning of the system.  This project describes the hardware and software interface requirements using ER diagrams and UML diagrams. The system is developed with a user-friendly and attractive GUI. It delivers a wide range of groceries available online. Users have to first login into the system to view the groceries and add them into their cart. They can then order it by making a secure online payment via CREDIT CARD. The system functionality of products and orders is stored on server side in a web service. 
 
 2. **Document Conventions**  
 - Convention for Sub title 
