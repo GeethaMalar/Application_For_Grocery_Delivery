@@ -1,7 +1,7 @@
 ﻿`  `**SOFTWARE  REQUIREMENTS  SPECIFICATION** 
 
-
-`                `**Application for Grocery Delivery**                     
+ 
+`                                            `**Application for Grocery Delivery**                     
 
 **PREPARED BY:** 
 
@@ -29,17 +29,13 @@ Font  face:  Times  New ![](Aspose.Words.e380fb7e-8f3a-4125-ad8b-d7c14032d18d.00
 
 3. **Scope of Development Project** 
 
-`       `The purpose of the Online Grocery Management System is to easy Grocery 
-
-management  and  to  Create  a  convenient  and  easy-to-use  application  for consumers/customers,  trying  to  buy  grocery  Goods.  The  system  is  based  on  a relational database with its grocery management and delivery Functions. The system is also designed to allow an admin to manage and check the stocks of goods in the Grocery. 
+`       `The purpose of the Online Grocery Management System is to easy Grocery management  and  to  Create  a  convenient  and  easy-to-use  application  for consumers/customers,  trying  to  buy  grocery  Goods.  The  system  is  based  on  a relational database with its grocery management and delivery Functions. The system is also designed to allow an admin to manage and check the stocks of goods in the Grocery. 
 
 ` `The  software  will  facilitate  communication  between  admins,  clerks,  buyers (retailers and wholesalers) and the IT professional via app or E-mail. Preformatted reply forms are used in Every transactions or Inquiry of customers through the system. 
 
 4. **Intended Audience and Reading Suggestions** 
 
-`      `This project is a prototype for the Online Grocery Management System and it is restricted within the college premise. This has been implemented under the guidance 
-
-of college professors and professional IT individuals. This project is useful for the Grocery Staff, Admin and as well to be consumers and Customers.
+`      `This project is a prototype for the Online Grocery Management System and it is restricted within the college premise. This has been implemented under the guidance of college professors and professional IT individuals. This project is useful for the Grocery Staff, Admin and as well to be consumers and Customers.
 
 5. **Definitions, Acronyms and Abbreviations**
 
@@ -69,27 +65,7 @@ IEEE   -> Institute of Electrical and Electronics Engineers
 2. **Overall Descriptions** 
 1. **Product Perspective** 
 **
-`      `A Use Case Diagram is a visual representation used in the field of software 
-
-engineering and system analysis to depict the various interactions and functionalities of a system from the perspective of its users, known as actors. These diagrams are part of the Unified Modeling Language (UML) and help in understanding the system's requirements and how users or external entities interact with it. 
-
-` `Use Case Diagram Application for Grocery Delivery 
-
-Cancel order ![](Aspose.Words.e380fb7e-8f3a-4125-ad8b-d7c14032d18d.006.png)
-
-Track Order 
-
-Schedule Delivery **\\** Confirm Order
-
-Remove Item form 
-
-Cart   ![ref1]![ref2]![](Aspose.Words.e380fb7e-8f3a-4125-ad8b-d7c14032d18d.009.png)
-
-Update Cart View Cart  
-
-Add item to Cart View Product Detail Search Products Browse products 
-
-Select Payment Method  **Fig 2.1  Use case diagram for Grocery Delivery**
+`      `A Use Case Diagram is a visual representation used in the field of software engineering and system analysis to depict the various interactions and functionalities of a system from the perspective of its users, known as actors. These diagrams are part of the Unified Modeling Language (UML) and help in understanding the system's requirements and how users or external entities interact with it. 
 
 2. **Product Function** 
 
@@ -98,9 +74,7 @@ Select Payment Method  **Fig 2.1  Use case diagram for Grocery Delivery**
 
 3. **User Classes and Characteristics** 
 **
-`       `For grocery delivery applications, there are different entities that have different  characteristics,  roles, and  responsibilities  to  consider  for  a  good 
-
-environment setup. 
+`       `For grocery delivery applications, there are different entities that have different  characteristics,  roles, and  responsibilities  to  consider  for  a  good environment setup. 
 
 **Customers:** 
 
